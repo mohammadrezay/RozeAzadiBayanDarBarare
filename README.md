@@ -1,4 +1,4 @@
-# RozeAzadiBayanDarBarare
+# RozeAzadiBayanDarBarare.php
 https://quera.org/problemset/10162
 <?php
 $k = (int)readline("Enter a Number: ");
